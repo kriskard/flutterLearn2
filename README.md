@@ -1,1 +1,3 @@
-# flutterLearn2
+# CS3 Midterms Profile
+
+## Profile - Ragonton, Kristian D.
